@@ -1,5 +1,5 @@
 
-![Logo](images/logo.jpg)
+![Logo](images/SAY-SOCIAL-LOGO.jpeg)
 
 
 # saysocialbot - TELEGRAM BOT 
