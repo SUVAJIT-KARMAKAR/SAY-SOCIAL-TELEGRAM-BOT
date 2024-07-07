@@ -1,0 +1,23 @@
+{
+  "name": "saysocialbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --env-file=.env server.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "i": "^0.3.7",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.11.1",
+    "mongoose": "^8.3.4",
+    "openai": "^4.46.1",
+    "telegraf": "^4.16.3"
+  }
+}
